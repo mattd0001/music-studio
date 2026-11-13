@@ -1,0 +1,26 @@
+{
+    "name": "odifewhaofiubdobf",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "arcade-piano-roll": "github:microsoft/arcade-piano-roll#v0.0.1",
+        "Better Music for Makecode": "github:shrimpcat23/better-music-for-makecode-arcade#940179aa82b2363de1a1de202de98b432d71b7b0"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "4.1.27",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj"
+}
